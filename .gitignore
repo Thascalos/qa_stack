@@ -1,0 +1,4 @@
+jenkins/**
+selenoid/**
+!/selenoid/browsers.json
+!**/.keep
